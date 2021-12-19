@@ -1,0 +1,57 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width:120px;
+}
+.search-container{
+  background-image: url(../images/bannerbackground.png);
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.search-bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-control{
+    margin:100px;
+}
+.food-container{
+  background-color:antiquewhite;
+}
+.food-img{
+    width:1000%;
+}
+.allShape-container{
+ 
+    margin:20px;
+    border-radius:10px;
+    text-align:center;
+}
+.footer-section{
+    padding: 3% 1% 1% 1%;
+}
+.onion-logo{
+    width:100px;
+}
+.text-success {
+    cursor: pointer;
+  }
+
+.login-logo{
+    width:120px;
+}
+#register-from{
+background-color: #eee;
+}
+/* place order   */
+
+.order img{
+    width: 100px;
+}
